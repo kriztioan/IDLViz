@@ -4,6 +4,8 @@
 
 3D Earth-Moon system simulation, animation and visualization using IDL Graphics Object Classes. The visualized celestial bodies are textured.
 
+![IDLViz in Action](IDLViz.gif "IDLViz in Action")
+
 ## Usage
 
 ```IDL
